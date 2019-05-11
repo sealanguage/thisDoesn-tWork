@@ -11,6 +11,7 @@ namespace FinalVCGithubTest
             Console.WriteLine("I hate you");
             Console.WriteLine("xxxxxxxxxxxu");
             Console.WriteLine("I hate you");
+            Console.WriteLine("it looks promising");
         }
     }
 }
